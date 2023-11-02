@@ -1,5 +1,9 @@
 Introdução a um fluxo de trabalho:
-Para ajudá-lo a começar, este guia mostra alguns exemplos básicos. Para obter a documentação completa do GitHub Actions sobre fluxos de trabalho, consulte "Configurando fluxos de trabalho".
+Para ajudá-lo a começar, este guia 
+mostra alguns exemplos básicos.
+Para obter a documentação completa do
+GitHub Actions sobre fluxos de trabalho, consulte
+"Configurando fluxos de trabalho".
 
 Personalizando quando as execuções do fluxo de trabalho são acionadas
 Defina seu fluxo de trabalho para ser executado em eventos push para as ramificações emainrelease/*
